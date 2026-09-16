@@ -99,8 +99,8 @@ authorized copy of `wine.xlsx`; see [the data notice](DATA_NOTICE.md).
 ## Files
 
 - [Research notebook](research_notebook.ipynb)
-- [Master's thesis](https://github.com/yassinedkk/LDAT2M/blob/main/portfolio/dynamic-hedonic-price-indices/master-thesis.pdf)
-- [Defense slides](https://github.com/yassinedkk/LDAT2M/blob/main/portfolio/dynamic-hedonic-price-indices/thesis-defense.pdf)
+- [Master's thesis](master-thesis.pdf)
+- [Defense slides](thesis-defense.pdf)
 - `assets/`: selected figures for quick review
 - `requirements.txt`: Python dependencies
 - `DATA_NOTICE.md`: empirical-data availability and reproduction instructions
